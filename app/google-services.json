@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334043044466",
+    "project_id": "asistencia-168c2",
+    "storage_bucket": "asistencia-168c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334043044466:android:d926ee4d9e7c9c291140eb",
+        "android_client_info": {
+          "package_name": "com.eduardo.asistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFl37U3zcE3q9vWcKdlf4OvuZDIgzRVTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
